@@ -1,6 +1,6 @@
 # my_card_app
 
-A new Flutter application.
+A new Flutter application from my udemy course by Angela 
 
 ## Getting Started
 
